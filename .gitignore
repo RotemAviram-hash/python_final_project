@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+tasks.json
+ai_logs.csv
+*.tmp
+.pytest_cache/
+.venv/
+venv/

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+python-dotenv
+anthropic
+httpx
+pytest
